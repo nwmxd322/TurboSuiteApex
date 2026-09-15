@@ -48,7 +48,7 @@ namespace TurboSuiteApex
 
             try
             {
-                Console.Title = "TURBO SUITE APEX v19.0 ULTIMATE EXTREME EDITION";
+                Console.Title = "TURBO SUITE APEX";
                 Console.SetWindowSize(Math.Min(100, Console.LargestWindowWidth), Math.Min(48, Console.LargestWindowHeight));
             }
             catch { }
@@ -746,7 +746,7 @@ namespace TurboSuiteApex
 
             Bar(80, "FOCUS", "Preparing focus profile");
             string focusNote = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "APEX_GameMode_Note.txt");
-            File.WriteAllText(focusNote, $"TURBO SUITE APEX v19.0 Game Mode\r\nActivated: {DateTime.Now}\r\nNo processes were terminated automatically.");
+            File.WriteAllText(focusNote, $"TURBO SUITE APEX Game Mode\r\nActivated: {DateTime.Now}\r\nNo processes were terminated automatically.");
 
             Bar(100, "DONE", "Game Mode ready");
             Console.WriteLine();
