@@ -22,4 +22,4 @@
 
 ---
 
-## W razie pytań prosze dodawać na discord **zulpolski_34025**
+## W razie pytań prosze dodawać na discord **gazownikopor_**
