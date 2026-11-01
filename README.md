@@ -8,6 +8,8 @@
 2. Pobierz plik `TurboSuiteApex_Setup.exe`. (najlepiej najnowszy)
 3. Uruchom plik **jako Administrator** (wymagane do wprowadzania zmian w rejestrze i planach zasilania).
 
+[]
+
 
 ---
 
