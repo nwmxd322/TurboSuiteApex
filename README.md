@@ -6,7 +6,7 @@
 *Maksymalna wydajność, natywne API, całkowity brak kompromisów.*
 
 [![Version](https://img.shields.io/badge/version-v3.0.0-blue?style=flat-square)](https://github.com/nwmxd322/TurboSuiteApex/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-success?style=flat-square)](https://github.com/nwmxd322/TurboSuiteApex)
+[![Platform](https://img.shields.io/badge/platform-Windows_10%2F11%2F12-success?style=flat-square)](https://github.com/nwmxd322/TurboSuiteApex)
 [![Architecture](https://img.shields.io/badge/architecture-Hybrid_C++%2FC#-orange?style=flat-square)](https://github.com/nwmxd322/TurboSuiteApex)
 [![License](https://img.shields.io/badge/license-MIT-purple?style=flat-square)](LICENSE)
 
